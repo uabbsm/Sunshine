@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSizeTwentytwo">22sp</dimen>
+    <dimen name="paddingSixteen">16dp</dimen>
+    <dimen name="v_Layout_Height">1dp</dimen>
+    <dimen name="marginEight">8dp</dimen>
+</resources>

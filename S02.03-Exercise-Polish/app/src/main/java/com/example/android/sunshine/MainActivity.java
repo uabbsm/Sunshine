@@ -117,6 +117,7 @@ public class MainActivity extends AppCompatActivity {
 
         @Override
         protected void onPostExecute(String[] weatherData) {
+
             // COMPLETED (19) As soon as the data is finished loading, hide the loading indicator
             mProgressbar.setVisibility(View.INVISIBLE);
             if (weatherData != null) {
